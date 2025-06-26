@@ -1,0 +1,11 @@
+# Core
+asyncio
+asyncpg==0.29.0
+redis==5.0.1
+httpx==0.25.2
+
+# Logging
+structlog==23.2.0
+
+# Environment
+python-dotenv==1.0.0

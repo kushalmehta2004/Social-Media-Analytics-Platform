@@ -1,0 +1,16 @@
+# Core Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# Database
+asyncpg==0.29.0
+
+# Redis
+redis==5.0.1
+
+# Logging
+structlog==23.2.0
+
+# Environment
+python-dotenv==1.0.0
