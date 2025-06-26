@@ -155,9 +155,6 @@ npm test
 
 This is a portfolio project, but feedback and suggestions are welcome!
 
-## 📄 License
-
-MIT License - see LICENSE file for details.
 
 ---
 
